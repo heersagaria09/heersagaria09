@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Heer Sagaria
 
-<!--
-**heersagaria09/heersagaria09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student(Pre-final Year).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring **Machine Learning** and real-world AI applications.
+
+
+⚙️ Learning how to build, deploy, and manage ML models.
+
+I am learning core machine learning concepts and practicing them through hands-on projects.
+
+🌱 Currently focusing on **Machine Learning, Python, and MLOps practices**.
+🚀 **GOAL**: Become a **MACHINE LEARNING ENGINEER** and grow into **MLOps**.
+
+---
+
+## 🛠 TECH STACK
+
+## 🛠 TECH STACK
+
+💻 Python  
+📊 Pandas | NumPy | Scikit-learn  
+🌐 HTML | CSS | Flask | Node.js | Express.js  
+🗄 MongoDB  
+🔗 RESTful APIs  
+🔧 Git | GitHub | VS Code
+
+---
+
+## 📫 CONNECT WITH ME
+
+💼 LinkedIn: [Heer Sagaria](https://www.linkedin.com/in/heer-sagaria-a94887315/)  
+📧 Email: [heersagaria9725@gmail.com](mailto:heersagaria9725@gmail.com)
+
+---
+
+⭐ **Always learning, always building.**
