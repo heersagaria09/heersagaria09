@@ -17,8 +17,6 @@ I am learning core machine learning concepts and practicing them through hands-o
 
 ## 🛠 TECH STACK
 
-## 🛠 TECH STACK
-
 💻 Python  
 📊 Pandas | NumPy | Scikit-learn  
 🌐 HTML | CSS | Flask | Node.js | Express.js  
